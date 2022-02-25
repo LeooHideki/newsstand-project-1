@@ -22,8 +22,8 @@ CREATE TABLE `tb_cliente` (
 
 
 ### Participantes : 
-Ricardo
-Leo Hideki
+1.Ricardo
+1.Leo Hideki
 
 Tecnologias utilizadas
 ###
